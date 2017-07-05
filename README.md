@@ -1,3 +1,3 @@
 # best-repo-ever
 
-These are new-branch-1 test changes.
+These are new-branch-2 test changes.
